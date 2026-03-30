@@ -2,4 +2,4 @@
 Concepts and Documentation
 
 ## Scaling
-- [0-100: Rapid Scalling](0-100/README.md)
+- [0-100: Rapid Scalling](https://github.com/NullOrNaN/Docs-and-Concepts/tree/main/0-100)
