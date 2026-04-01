@@ -24,6 +24,9 @@ Because Bonding is Open Source.
 - Shared Ownership: When a team "prints" their culture together, they own the Source Code of their success.
 - Humanizing the Node: We are moving from "Stressed Stereotypes" to High-Fidelity Professionals.
 
+## Where are the models?
+Right now they are coming soon - but you will need to visit the [3MF-License.md file](3MF-license.md) for them. The files are linked to in that file but are not directly part of this repo. The purpose of this is to honor the free spirit of OSS and also the need for privacy and control over individuals likeness and personal IP.
+
 ## Project Notes
 My vision and desire is that this wont be the only network cluster generating 3D models, but the start of something. Tell your story, make yourself seen.
 
