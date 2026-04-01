@@ -15,7 +15,7 @@ These aren't just 3D models; they are the Human Middleware of a high-performance
 The technical anchor. When the "Madness" hits, this figure stays on the desk as a reminder of Systemic Calm.
 
 ### **The Firewall, [Frank](https://www.linkedin.com/in/reedsavory/)**
-The battle tired CISO. The bridge between the "Bare Metal" of security and the "C-Suite" vision. He represents the Secure Handshake.
+The seasoned, crisis‑tested veteran cybersec executive. The bridge between the "Bare Metal" of security and the "C-Suite" vision. He represents the Secure Handshake.
 
 ## Why GitHub for 3D Models?
 Because Bonding is Open Source.
